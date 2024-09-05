@@ -18,13 +18,13 @@ The dataset contains customer preference parameters, demographic information, an
 
 #### Affinity-Based Segmentation:
 
-• Data Utilization
-• Feature Analysis
-• Persona Creation: Develop personas by analyzing log-lifts of key attributes within each segment, providing insights into the most distinctive traits of each group.
+• Data Utilization   
+• Feature Analysis    
+• Persona Creation: Develop personas by analyzing log-lifts of key attributes within each segment, providing insights into the most distinctive traits of each group   
 
 
 #### Classical K-means Segmentation:
 
-• Clustering Basis
-• Segment Profiling
-• Persona Development
+• Clustering Basis   
+• Segment Profiling   
+• Persona Development   
