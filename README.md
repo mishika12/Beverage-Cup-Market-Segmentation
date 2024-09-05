@@ -11,3 +11,20 @@ The primary challenge is to effectively segment a diverse customer base using cl
 
 • Classical K-means Segmentation: Implementing K-means clustering to group customers based on their preference parameters. The objective is to determine the optimal number of clusters and profile each segment using demographic information, allowing for the development of personas that guide product recommendations.    
 
+
+### <ins> Methodology
+
+The dataset contains customer preference parameters, demographic information, and purchase probabilities for various beverage cup features. The project employs both affinity-based and classical clustering techniques to segment customers and develop personas.
+
+#### Affinity-Based Segmentation:
+
+• Data Utilization
+• Feature Analysis
+• Persona Creation: Develop personas by analyzing log-lifts of key attributes within each segment, providing insights into the most distinctive traits of each group.
+
+
+#### Classical K-means Segmentation:
+
+• Clustering Basis
+• Segment Profiling
+• Persona Development
